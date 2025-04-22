@@ -15,8 +15,6 @@ Built using OpenCV, Arduino Uno, and a custom servo-controlled arm.
 3. Arduino receives signals (`'G'`, `'B'`, `'T'`) via serial and actuates the sorting arm.
 4. Object is sorted into the appropriate bin (Green, Blue, or Trash).
 
---> visual Overview- 
-
 --> Hardware Required:
 - Arduino Uno
 - Servo Motor (for sorting arm)
